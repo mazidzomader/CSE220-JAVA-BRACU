@@ -7,9 +7,9 @@ Welcome to the GitHub repository for the **Data Structures** course, **CSE111**,
 This course is taught in **Language Independent Platform** by our esteemed instructors:
 - Theory: _
 - Laboratory: _
-## In this Github Repository, it is done in ***PYTHON***
+## In this Github Repository, it is done in ***JAVA***
 
-If you are interested in doing it in ***JAVA***, check the linked repository. Link: 
+If you are interested in doing it in ***Python***, check the linked repository. Link: 
 
 ## ⚠️ Caution: 
 - **Cheating**: Cheating in any form will not be tolerated in this course. All assignments and projects are to be completed individually unless specified otherwise.
