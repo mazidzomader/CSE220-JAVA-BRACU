@@ -1,4 +1,4 @@
-# 📂 Sorting Algorithms in Java
+# 📂 Sorting Algorithms in JAVA
 
 Welcome to the **Sorting Algorithms** folder! 
 
