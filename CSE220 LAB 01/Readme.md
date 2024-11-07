@@ -4,7 +4,7 @@ To successfully run these files, **LAB_01_SOLUTION_ARRAY.java** must be executed
 
 ## Steps to Run the Project
 
-1. **Execute LAB_01_SOLUTION_ARRAY.java] first.**
+1. **Execute LAB_01_SOLUTION_ARRAY.java first.**
    - This file sets up essential configurations and dependencies that the other files rely on.
    
 2. Once **LAB_01_SOLUTION_ARRAY.java** is running, you can execute the remaining files in the project as needed.
