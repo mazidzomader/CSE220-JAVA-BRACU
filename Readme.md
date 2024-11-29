@@ -1,4 +1,4 @@
-# <h1 align = "center">CSE220</h1>
+# <h1 align = "center"><b>CSE220</b1></h1>
 ## DATA STRUCTURES
 # Brac University - Fall 2024
 
@@ -9,7 +9,8 @@ This course is taught in **Language Independent Platform** by our esteemed instr
 - Laboratory: Prothito Shovon Majumder **(PSM)** and Rubayat Ahmed Khan **(RAK)**
 ## In this Github Repository, it is done in ***JAVA***
 
-If you are interested in doing it in ***Python***, check the linked repository. Link: https://github.com/Mazid-Zomader/CSE220-PYTHON
+If you are interested in doing it in ***Python***, check the linked repository. Link: https://github.com/mazidzomader/CSE220-PYTHON  
+`You will find some additional study materials`
 
 ## ⚠️ Caution: 
 - **Cheating**: Cheating in any form will not be tolerated in this course. All assignments and projects are to be completed individually unless specified otherwise.
