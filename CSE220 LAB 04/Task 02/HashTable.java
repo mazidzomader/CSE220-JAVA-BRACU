@@ -89,7 +89,7 @@ public class HashTable {
             }
             sum += Integer.parseInt(x);
         }
-        return sum % this.ht.length; //remove this line
+        return sum % this.ht.length; 
     }
 
 
