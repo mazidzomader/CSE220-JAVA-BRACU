@@ -58,7 +58,7 @@ class VehicleHashTable{
 			hash += (int)  brand.charAt(i) ;
 		}
 //		System.out.println(hash);
-		return hash % this.vehicleTable.length;//remove this line
+		return hash % this.vehicleTable.length;
 	}
 
 	//you need to COMPLETE this method
