@@ -60,7 +60,7 @@ public class HashTable {
     private int hashFunction( Integer key ){
         // TO DO
 
-        return (key+3)%6; //remove this line
+        return (key+3)%6; 
     }
 
 
