@@ -43,7 +43,7 @@ public class HashTable {
                 sum += (int)key.charAt(i);
             }
         }
-        return sum % this.ht.length; //remove this line
+        return sum % this.ht.length; 
     }
 
     //you need to COMPLETE this method
