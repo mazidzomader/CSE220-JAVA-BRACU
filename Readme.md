@@ -12,6 +12,22 @@ This course is taught in **Language Independent Platform** by our esteemed instr
 If you are interested in doing it in ***Python***, check the linked repository. Link: https://github.com/mazidzomader/CSE220-PYTHON  
 `You will find some additional study materials`
 
+
+## Lab Content 📂
+
+1. **CSE220 LAB 01 - Array**  
+
+2. **CSE220 LAB 02 - Singly Linked List**  
+   
+3. **CSE220 LAB 03 - Doubly Linked List**  
+   
+4. **CSE220 LAB 04 - Hashing**  
+   
+5. **CSE220 LAB 05 - Binary Tree**  
+   
+6. **CSE220 LAB 06 - Binary Search Tree**  
+   
+   
 ## ⚠️ Caution: 
 - **Cheating**: Cheating in any form will not be tolerated in this course. All assignments and projects are to be completed individually unless specified otherwise.
 - **Stealing**: Using someone else's work without permission is strictly prohibited.
