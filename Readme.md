@@ -15,17 +15,17 @@ If you are interested in doing it in ***Python***, check the linked repository. 
 
 ## Lab Content 📂
 
-1. **LAB 01 - Array**  
+- **LAB 01 - Array**  
 
-2. **LAB 02 - Singly Linked List**  
+- **LAB 02 - Singly Linked List**  
    
-3. **LAB 03 - Doubly Linked List**  
+- **LAB 03 - Doubly Linked List**  
    
-4. **LAB 04 - Hashing**  
+- **LAB 04 - Hashing**  
    
-5. **LAB 05 - Binary Tree**  
+- **LAB 05 - Binary Tree**  
    
-6. **LAB 06 - Binary Search Tree**  
+- **LAB 06 - Binary Search Tree**  
    
    
 ## ⚠️ Caution: 
