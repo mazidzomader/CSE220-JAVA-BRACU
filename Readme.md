@@ -11,7 +11,9 @@ This course is taught in **Language Independent Platform** by our esteemed instr
 
 If you are interested in doing it in ***Python***, check the linked repository. Link: https://github.com/mazidzomader/CSE220-PYTHON  
 `You will find some additional study materials`
+# Notice
 
+Due to plagiarism concerns, I will be updating python repository after the semester ends. Thank you for your understanding!
 
 ## Lab Content 📂
 
@@ -34,9 +36,7 @@ If you are interested in doing it in ***Python***, check the linked repository. 
 - **Plagiarism**: Copying someone else's work and passing it off as your own is not allowed.
 - **Proper Attribute and Recognition of Author**: If you use someone else's work as a reference, you must give them proper credit.
 
-# Notice
 
-Due to plagiarism concerns, I will be updating this repository in about a week after my submission. Thank you for your understanding!
 
 
 # 📝 Message from the Author
