@@ -1,6 +1,6 @@
-# <h1 align = "center"><b>CSE220</b1></h1>
-## DATA STRUCTURES
-# Brac University - Fall 2024
+# <h1 align = "center">CSE220</h1>
+## <h1 align = "center">DATA STRUCTURES</h1>
+# <h1 align = "center">Brac University - Fall 2024</h1>
 
 Welcome to the GitHub repository for the **Data Structures** course, **CSE220**, at **Brac University** for the **Fall 2024** semester.
 
