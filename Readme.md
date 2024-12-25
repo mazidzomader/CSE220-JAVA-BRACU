@@ -27,7 +27,9 @@ Due to plagiarism concerns, I will be updating python repository after the semes
    
 - **LAB 05 - Binary Tree**  
    
-- **LAB 06 - Binary Search Tree**  
+- **LAB 06 - Binary Search Tree**
+
+- **LAB 07 - Heap** 
    
    
 ## ⚠️ Caution: 
