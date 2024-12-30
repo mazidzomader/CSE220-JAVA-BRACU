@@ -11,8 +11,8 @@ public class HeapTester {
 
         if( input.equals("1") || input.equals("") ) task1();
         if( input.equals("2") || input.equals("") ) task2();
-        // if( input.equals("3") || input.equals("") ) task3();
-        // if( input.equals("4") || input.equals("") ) task4();
+        if( input.equals("3") || input.equals("") ) task3();
+        if( input.equals("4") || input.equals("") ) task4();
     }
     public static void task1(){
         MinHeap minHeap = new MinHeap(10);
@@ -33,6 +33,13 @@ public class HeapTester {
         HeapPrinter.printNode(root);
         System.out.print("Sorted in Ascending order: ");
         System.out.println(Arrays.toString(minHeap.sort()));   
+    }
+    public static void task3(){
+        Integer[] arr = {2, 4, 7, 1, 6};
+        MinHeap heap = Task3.motherboard_machine(arr, 4);
+        System.out.print("Output:");
+        System.out.println(Arrays.toString(Arrays.copyOfRange(heap.get_value(), 1,heap.get_value().length)));
+        HeapPrinter.printNode(Heap_Constructor(heap.get_value(), 1));
     }
 
     public static Integer[] reverse_array(Integer[] arr){
@@ -74,6 +81,9 @@ public class HeapTester {
         p.right = Heap_Constructor(arr, 2*i+1); 
         return p;
     }
-
+    public static void task4(){
+        Integer[] arr = {4, 10, 2, 8, 6, 7};
+        System.out.println(Arrays.toString(Task4.top_k_largest(arr, 3)));
+    }
         
 }
