@@ -21,7 +21,7 @@ Due to plagiarism concerns, I will be updating python repository after the semes
 
 - **LAB 02 - Singly Linked List**  
    
-- **LAB 03 - Doubly Linked List**  
+- **LAB 03 - Doubly Linked List and Stack**  
    
 - **LAB 04 - Hashing**  
    
