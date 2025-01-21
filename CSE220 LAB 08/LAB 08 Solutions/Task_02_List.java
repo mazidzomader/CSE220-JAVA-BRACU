@@ -23,25 +23,4 @@ public class Task_02_List {
         }
         return maxVertex;
     }
-    public static void main(String[] args) {
-        LinkedList test_case = new LinkedList(9, false);
-        test_case.insertEdge(0, 2, 10);
-        test_case.insertEdge(0, 1, 65);
-        test_case.insertEdge(0, 8, 50);
-        test_case.insertEdge(1, 2, 1);
-        test_case.insertEdge(1, 4, 60);
-        test_case.insertEdge(1, 7, 70);
-        test_case.insertEdge(1, 8, 5);
-        test_case.insertEdge(2, 6, 15);
-        test_case.insertEdge(2, 3, 90);
-        test_case.insertEdge(3, 5, 75);
-        test_case.insertEdge(3, 4, 30);
-        test_case.insertEdge(3, 7, 35);
-        test_case.insertEdge(4, 6, 20);
-        test_case.insertEdge(4, 5, 25);
-        test_case.insertEdge(5, 6, 85);
-        test_case.insertEdge(5, 7, 40);
-        test_case.printAdjList();
-        System.out.println("\nSum of edge weights of the vertex " + maximumEdgeWeightWithList(test_case) + " is maximum");
-    }
 }
