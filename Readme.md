@@ -32,6 +32,8 @@ Due to plagiarism concerns, I will be updating python repository after the semes
 - **LAB 07 - Heap**
 
 - **LAB 08 - Graph**
+
+- **LAB XX - Recursion**
    
    
 ## ⚠️ Caution: 
