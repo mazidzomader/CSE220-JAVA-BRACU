@@ -9,7 +9,7 @@ This course is taught in **Language Independent Platform** by our esteemed instr
 - Laboratory: Prothito Shovon Majumder **(PSM)** and Rubayat Ahmed Khan **(RAK)**
 ## In this Github Repository, it is done in ***JAVA***
 
-If you are interested in doing it in ***Python***, check the linked repository. Link: https://github.com/mazidzomader/CSE220-PYTHON  
+If you are interested in doing it in ***Python***, check the [linked](https://github.com/mazidzomader/CSE220-PYTHON) repository. 
 `You will find some additional study materials`
 # Notice
 
