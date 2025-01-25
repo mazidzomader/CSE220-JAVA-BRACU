@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class FALL_23_MID_SOLUTION_TESTER {
     public static void main(String[] args) {
-        System.out.println("Enter any number between 2,4 and 5 to check the answers.\nTo run all tasks just press enter");
+        System.out.println("Enter any number between 1, 2 and 3 to check the answers.\nTo run all tasks just press enter");
         System.out.print("Which Task do you wanna check: ");
         Scanner sc = new Scanner(System.in);
         String input = sc.nextLine();
