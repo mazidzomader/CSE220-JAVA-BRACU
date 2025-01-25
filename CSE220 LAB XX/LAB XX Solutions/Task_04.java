@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 
 public class Task_04 {
+    // (a)
     public static void printPattern(int num, int empty) {
         if (num <= 0) {
             return;
@@ -45,6 +46,7 @@ public class Task_04 {
     public static void printPattern(int num){
         printPattern(num,0);
     }
+    // (b)
     public static ArrayList<Integer> merge(ArrayList<Integer> arr1, ArrayList<Integer> arr2) {
         if (arr2.isEmpty()) {
             bubbleSortRecursive(arr1, arr1.size());
