@@ -3,7 +3,6 @@ public class Task_01{
     public static int even_sum(int[] arr){
         return EvenSum(arr, 0);
     }
-    // (b)
     public static int EvenSum(int[] arr,int  idx){
         if (arr.length <= idx) {
             return 0 ;
@@ -13,7 +12,7 @@ public class Task_01{
         }
         return EvenSum(arr, idx+1);
     }
-    // (c)
+    // (b)
     public static int multiply_odd_positive(Node node){
         if (node == null){
             return 1 ;
@@ -23,21 +22,21 @@ public class Task_01{
         }
         return multiply_odd_positive(node.next);
     }
-    // (d)
+    // (c)
     public static int total_combinations(int n, int r){
         if (r == 0 || n == r){
             return 1 ;
         }
         return total_combinations(n-1, r-1) + total_combinations(n-1, r);
     }
-    // (e)
+    // (d)
     public static int total_digits(int num){
         if (num ==0) {
             return 0 ;
         } 
         return 1 + total_digits(num/10);
     }
-    // (f)
+    // (e)
     public static boolean primeChecker(int num){
         return prime_Checker(num,2);
     }
@@ -52,7 +51,7 @@ public class Task_01{
             return true && prime_Checker(num, idx + 1 );
         }
     }
-    // (g)
+    // (f)
     public static void print_list(Node node){
         if (node == null ){
             return;
