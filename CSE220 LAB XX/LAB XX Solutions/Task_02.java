@@ -1,4 +1,5 @@
 public class Task_02 {
+    // (a)
     public static String decimalToBinary(int num) {
         if (num == 0) {
             return "";
@@ -6,6 +7,7 @@ public class Task_02 {
             return decimalToBinary(num / 2) + (num % 2);
         }
     }
+    // (b)
     public static String decimalToHexadecimal(int num) {
         if (num == 0) {
             return "";
@@ -25,6 +27,7 @@ public class Task_02 {
             return decimalToHexadecimal(num / 16) + (num % 16);
         }
     }
+    // (c)
     private static void printVowel(String string) {
         if (string.isEmpty()) {
             return;
@@ -45,6 +48,7 @@ public class Task_02 {
             printVowelThenConsonant(head.next);
         }
     }
+    // (d)
     public static double alternateHarmonicSum(int num) {
         if (num <= 0) {
             return 0;
