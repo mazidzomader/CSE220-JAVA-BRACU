@@ -1,4 +1,5 @@
 public class Task_03 {
+    // (a)
     public static int houseOfCards(int height) {
         if (height == 0) {
             return 0;
@@ -9,6 +10,7 @@ public class Task_03 {
             return 5 + houseOfCards(height - 1);
         }
     }
+    // (b)
     public static int gameOfCards(int num) {
         if (num == 1) {
             return 0;
