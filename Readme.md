@@ -7,13 +7,15 @@ Welcome to the GitHub repository for the **Data Structures** course, **CSE220**,
 This course is taught in **Language Independent Platform** by our esteemed instructors:
 - Theory: Mr. Muhammad Ehsanul Kader **(EHD)**
 - Laboratory: Mr. Prothito Shovon Majumder **(PSM)** and Mr. Rubayat Ahmed Khan **(RAK)**
-## In this Github Repository, it is done in ***JAVA***
 
-If you are interested in doing it in ***Python***, check the [linked](https://github.com/mazidzomader/CSE220-PYTHON) repository. 
+In this Github Repository, it is done in ***JAVA***
+
+## If you are interested in doing it in ***Python***, 
+
+[<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" alt="Get it on GitHub" height="80">](https://github.com/mazidzomader/CSE220-PYTHON)
+
+
 `You will find some additional study materials`
-# Notice
-
-Due to plagiarism concerns, I will be updating python repository after the semester ends. Thank you for your understanding!
 
 ## Lab Content 📂
 
