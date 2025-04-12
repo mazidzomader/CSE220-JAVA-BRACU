@@ -14,6 +14,7 @@ In this Github Repository, it is done in ***JAVA***
 
 [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" alt="Get it on GitHub" height="80">](https://github.com/mazidzomader/CSE220-PYTHON)
 
+![How does it feel](https://github.com/mazidzomader/CSE220-PYTHON-BRACU/blob/main/CSE220%20Resources/meme.jpg)
 
 `You will find some additional study materials`
 
